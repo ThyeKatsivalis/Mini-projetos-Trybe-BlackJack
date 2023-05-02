@@ -1,1 +1,1 @@
-# Miniprojetos-desenvolvidos-na-trybeteste
+# Miniprojetos-desenvolvidos-na-trybe
